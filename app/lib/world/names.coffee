@@ -110,6 +110,7 @@ module.exports.thangNames = thangNames =
     'Phillip'
     'Phineas'
     'Pierce'
+    'Prankal'
     'Ralph'
     'Randy'
     'Raymond'
